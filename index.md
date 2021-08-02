@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "About me"
+title: "Biography"
 ---
 
-I am a PhD candidate in Prof. Jinyong Liu's lab (https://chem-environ.weebly.com/people.html) at University of California, Riverside (https://www.ucr.edu/). With a large PFAS collection of more than 150 structures, my research focus on
-is mainly about the complete defluorination of per- and polyfluoroalkyl substances (PFAS) (https://cen.acs.org/sections/pfas.html) with integrated reduction and oxidation processes.
+Zekun Liu is a PhD candidate from [Prof. Jinyong Liu lab] (https://chem-environ.weebly.com/people.html) at [Chemical and Environmental Department] (https://www.cee.ucr.edu/) at [University of California, Riverside] (https://www.ucr.edu/). His research direction is about water treatment of [per- and polyfluoroalkyl substances (PFAS)] (https://cen.acs.org/sections/pfas.html). With a large colletion of more than 150 PFAS structures, he tried to improve the understanding of PFAS structure-reactivity relationship in reduction and oxidation process. His goal is to develop a complete treatment train of PFAS with adsorption and subsequent destruction.
+
+
