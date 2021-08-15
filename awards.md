@@ -3,7 +3,7 @@ title:  "Awards"
 layout: post
 ---
 ## 2021
-   :
+
    
    - **Best poster presentation award in CAPEES Student E-Poster Competition**
    **July**      **Best poster presentation award in CAPEES Student E-Poster Competition**
