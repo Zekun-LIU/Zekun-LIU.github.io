@@ -6,5 +6,4 @@ layout: post
    https://pubs.acs.org/doi/abs/10.1021/acs.est.1c00353 (open access)
    
    <div align=center>
-   
    ![es1c00353_0010.jpeg](assets/es1c00353_0010.jpeg)
