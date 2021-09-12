@@ -1,5 +1,5 @@
 ---
-title:  "Publications <font size=3>(first and co-first authorship)</font>"
+title:  "Publications (first and co-first authorship)"
 layout: post
 categories: media
 ---
