@@ -1,5 +1,5 @@
 ---
-title:  "Publications (first and co-first authorship)"
+title:  "Publications (First and co-first authorship)"
 layout: post
 categories: media
 ---
