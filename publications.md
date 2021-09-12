@@ -2,7 +2,7 @@
 title:  "Publications"
 layout: post
 ---
-   - **Zekun Liu**, Michael J. Bentel, Yaochun Yu, Changxu Ren, Jinyu Gao, Vivek Francis Pulikkal, Mei Sun, Yujie Men, Jinyong Liu<sup>*</sup>. Near-Quantitative Defluorination of Perfluorinated and Fluorotelomer Carboxylates and Sulfonates with Integrated Oxidation and Reduction. ***Environmental Science & Technology***. 2021, 55, 10, 7052-7062.  
+   - **Zekun Liu**, Michael J. Bentel, Yaochun Yu, Changxu Ren, Jinyu Gao, Vivek Francis Pulikkal, Mei Sun, Yujie Men, Jinyong Liu.<sup>*</sup> Near-Quantitative Defluorination of Perfluorinated and Fluorotelomer Carboxylates and Sulfonates with Integrated Oxidation and Reduction. ***Environmental Science & Technology***. 2021, 55, 10, 7052-7062.  
    https://pubs.acs.org/doi/abs/10.1021/acs.est.1c00353
    
    
