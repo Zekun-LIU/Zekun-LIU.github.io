@@ -13,5 +13,5 @@ categories: media
   
   - Michael J. Bentel<sup>\*</sup>, **Zekun Liu**<sup>\*</sup>, Yaochun Yu, Jinyu Gao, Yujie Men, Jinyong Liu. Enhanced Degradation of Perfluorocarboxylic Acids (PFCAs) by UV/Sulfite Treatment: Reaction Mechanisms and System Efficiencies at pH 12. ***Environmental Science & Technology Letters***. 2020, 7, 5, 351–357.        [https://pubs.acs.org/doi/10.1021/acs.estlett.0c00236](https://pubs.acs.org/doi/10.1021/acs.estlett.0c00236)   
    <div  align="center">    
-   <img src="/Images/ez0c00236_0004.jpeg" style="zoom:40%"/>   
+   <img src="/Images/ez0c00236_0004.jpeg" style="zoom:38%"/>   
    </div>   
