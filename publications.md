@@ -3,6 +3,11 @@ title:  "Publications (first and co-first authorship)"
 layout: post
 categories: media
 ---
+   - **Zekun Liu**<sup>\*</sup>, Zhanghao Chen, Jinyu Gao, Yaochun Yu, Yujie Men, Cheng Gu, Jinyong Liu.<sup>&sect;</sup> Accelerated Degradation of Perfluorosulfonates and Perfluorocarboxylates by UV/Sulfite + Iodide: Reaction Mechanisms and System Efficiencies. ***Environmental Science & Technology***. 2022, 56, 6, 3699-3709.  
+   [https://pubs.acs.org/doi/abs/10.1021/acs.est.1c07608](https://pubs.acs.org/doi/abs/10.1021/acs.est.1c07608) 
+  <div  align="center">
+  <img src="/Images/es1c00353_0010.jpeg" style="zoom:50%"/>
+  </div>
 
    - **Zekun Liu**<sup>\*</sup>, Michael J. Bentel<sup>\*</sup>, Yaochun Yu, Changxu Ren, Jinyu Gao, Vivek Francis Pulikkal, Mei Sun, Yujie Men, Jinyong Liu.<sup>&sect;</sup> Near-Quantitative Defluorination of Perfluorinated and Fluorotelomer Carboxylates and Sulfonates with Integrated Oxidation and Reduction. ***Environmental Science & Technology***. 2021, 55, 10, 7052-7062.  
    [https://pubs.acs.org/doi/abs/10.1021/acs.est.1c00353](https://pubs.acs.org/doi/abs/10.1021/acs.est.1c00353) 
